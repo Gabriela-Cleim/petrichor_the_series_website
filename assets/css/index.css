@@ -5,6 +5,7 @@ body {
     background-size: cover;          /* A imagem cobre toda a área sem deixar espaços vazios */
     background-repeat: no-repeat;    /* Evita que a imagem se repita */
     background-position: center;     /* A imagem fica centralizada */
+    color: white;
     margin: 0;                       /* Remove margens externas */
     padding: 0;                      /* Remove padding */
     display: flex;                   /* Ativa Flexbox */
