@@ -1,6 +1,6 @@
 /* Estilo geral do corpo */
 body {
-    background-image: url('../images/background_petrichor.png');
+    background-image: url('../images/petrichor_background.png');
     background-color: #474849;
     background-size: cover;          /* A imagem cobre toda a área sem deixar espaços vazios */
     background-repeat: no-repeat;    /* Evita que a imagem se repita */
